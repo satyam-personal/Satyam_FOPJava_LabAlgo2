@@ -1,0 +1,2 @@
+module GLJavaLab2 {
+}
